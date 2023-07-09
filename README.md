@@ -1,1 +1,1 @@
-# JavaScript_FreeCodeCamp_Solutions
+# JavaScript Algorithms and Data Structures - FreeCodeCamp Solutions
