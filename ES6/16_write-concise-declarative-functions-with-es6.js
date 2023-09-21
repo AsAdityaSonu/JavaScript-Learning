@@ -8,6 +8,7 @@ const bicycle = {
     this.gear = newGear;
   }
 };
+
 // Only change code above this line
 bicycle.setGear(3);
 console.log(bicycle.gear);
